@@ -40,6 +40,9 @@ gem 'bitters', '~> 0.10.0'
 # Use unicorn as the app server
 # gem 'unicorn'
 
+# Rails 12factor gem for Heroku deployment
+gem 'rails_12factor'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
