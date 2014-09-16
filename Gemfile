@@ -33,6 +33,7 @@ gem 'spring',        group: :development
 gem 'bourbon', '~>3.2.0'
 gem 'neat', '~> 1.5.0'
 gem 'bitters', '~> 0.10.0'
+gem 'refills'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
