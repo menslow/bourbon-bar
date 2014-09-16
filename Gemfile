@@ -6,7 +6,7 @@ gem 'rails', '4.1.5'
 # Use postgresql as the database for Active Record
 gem 'pg'
 # Use SCSS for stylesheets
-gem 'sass-rails', '5.0.0.beta1'
+gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
@@ -30,8 +30,8 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 # Mixin Library for Sass
-gem 'bourbon', '~> 4.0.2'
-gem 'neat', '~> 1.6.0'
+gem 'bourbon', '~>3.2.0'
+gem 'neat', '~> 1.5.0'
 gem 'bitters', '~> 0.10.0'
 
 # Use ActiveModel has_secure_password
